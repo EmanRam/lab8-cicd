@@ -24,6 +24,7 @@ async function seed() {
       { id: 1, name: 'Buy groceries', status: 'pending' },
       { id: 2, name: 'Walk the dog', status: 'done' },
       { id: 3, name: 'Read a book', status: 'pending' },
+      { id: 7, name: 'Tea', status: 'pending' },
     ]);
     console.log('Database seeded');
   }
